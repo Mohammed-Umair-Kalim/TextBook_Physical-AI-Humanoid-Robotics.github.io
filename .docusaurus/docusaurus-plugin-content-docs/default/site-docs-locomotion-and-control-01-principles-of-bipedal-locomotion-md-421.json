@@ -1,0 +1,27 @@
+{
+  "id": "Locomotion-and-Control/Principles-of-Bipedal-Locomotion",
+  "title": "Principles of Bipedal Locomotion",
+  "description": "Overview",
+  "source": "@site/docs/Locomotion-and-Control/01-Principles-of-Bipedal-Locomotion.md",
+  "sourceDirName": "Locomotion-and-Control",
+  "slug": "/Locomotion-and-Control/Principles-of-Bipedal-Locomotion",
+  "permalink": "/docs/Locomotion-and-Control/Principles-of-Bipedal-Locomotion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Mohammed-Umair-Kalim/TextBook_Physical-AI-Humanoid-Robotics/docs/Locomotion-and-Control/01-Principles-of-Bipedal-Locomotion.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter Plan: Locomotion and Control",
+    "permalink": "/docs/Locomotion-and-Control/plan"
+  },
+  "next": {
+    "title": "Advanced Control Strategies",
+    "permalink": "/docs/Locomotion-and-Control/Advanced-Control-Strategies"
+  }
+}

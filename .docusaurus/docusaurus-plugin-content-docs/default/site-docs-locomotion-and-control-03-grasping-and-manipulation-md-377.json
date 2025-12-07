@@ -1,0 +1,27 @@
+{
+  "id": "Locomotion-and-Control/Grasping-and-Manipulation",
+  "title": "Grasping and Manipulation",
+  "description": "Overview",
+  "source": "@site/docs/Locomotion-and-Control/03-Grasping-and-Manipulation.md",
+  "sourceDirName": "Locomotion-and-Control",
+  "slug": "/Locomotion-and-Control/Grasping-and-Manipulation",
+  "permalink": "/docs/Locomotion-and-Control/Grasping-and-Manipulation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Mohammed-Umair-Kalim/TextBook_Physical-AI-Humanoid-Robotics/docs/Locomotion-and-Control/03-Grasping-and-Manipulation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Advanced Control Strategies",
+    "permalink": "/docs/Locomotion-and-Control/Advanced-Control-Strategies"
+  },
+  "next": {
+    "title": "Chapter Plan: Safety, Ethics, and Human-Robot Interaction",
+    "permalink": "/docs/Safety-Ethics-and-Human-Robot-Interaction/plan"
+  }
+}

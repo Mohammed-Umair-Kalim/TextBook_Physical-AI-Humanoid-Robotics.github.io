@@ -1,0 +1,27 @@
+{
+  "id": "Humanoid-Robotics-Hardware-and-Morphology/Actuators-and-Sensors-The-Building-Blocks-of-Movement",
+  "title": "Actuators and Sensors: The Building Blocks of Movement",
+  "description": "Overview",
+  "source": "@site/docs/Humanoid-Robotics-Hardware-and-Morphology/01-Actuators-and-Sensors-The-Building-Blocks-of-Movement.md",
+  "sourceDirName": "Humanoid-Robotics-Hardware-and-Morphology",
+  "slug": "/Humanoid-Robotics-Hardware-and-Morphology/Actuators-and-Sensors-The-Building-Blocks-of-Movement",
+  "permalink": "/docs/Humanoid-Robotics-Hardware-and-Morphology/Actuators-and-Sensors-The-Building-Blocks-of-Movement",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Mohammed-Umair-Kalim/TextBook_Physical-AI-Humanoid-Robotics/docs/Humanoid-Robotics-Hardware-and-Morphology/01-Actuators-and-Sensors-The-Building-Blocks-of-Movement.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter Plan: Humanoid Robotics: Hardware and Morphology",
+    "permalink": "/docs/Humanoid-Robotics-Hardware-and-Morphology/plan"
+  },
+  "next": {
+    "title": "Kinematics and Dynamics: The Science of Motion",
+    "permalink": "/docs/Humanoid-Robotics-Hardware-and-Morphology/Kinematics-and-Dynamics-The-Science-of-Motion"
+  }
+}

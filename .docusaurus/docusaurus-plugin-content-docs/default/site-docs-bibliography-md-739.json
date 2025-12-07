@@ -1,0 +1,24 @@
+{
+  "id": "bibliography",
+  "title": "Bibliography",
+  "description": "This bibliography lists all references cited throughout the textbook \"Physical AI & Humanoid Robotics\", formatted in APA 7th edition style.",
+  "source": "@site/docs/bibliography.md",
+  "sourceDirName": ".",
+  "slug": "/bibliography",
+  "permalink": "/docs/bibliography",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Mohammed-Umair-Kalim/TextBook_Physical-AI-Humanoid-Robotics/docs/bibliography.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Human–Robot Interaction (HRI) Protocols",
+    "permalink": "/docs/Safety-Ethics-and-Human-Robot-Interaction/Human-Robot-Interaction-Protocols"
+  },
+  "next": {
+    "title": "Glossary",
+    "permalink": "/docs/glossary"
+  }
+}

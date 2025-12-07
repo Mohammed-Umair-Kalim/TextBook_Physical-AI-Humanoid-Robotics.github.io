@@ -1,0 +1,25 @@
+{
+  "id": "Introduction-to-Physical-AI/plan",
+  "title": "Chapter Plan: Introduction to Physical AI",
+  "description": "This document outlines the plan for the chapter \"Introduction to Physical AI\".",
+  "source": "@site/docs/Introduction-to-Physical-AI/00-plan.md",
+  "sourceDirName": "Introduction-to-Physical-AI",
+  "slug": "/Introduction-to-Physical-AI/plan",
+  "permalink": "/docs/Introduction-to-Physical-AI/plan",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Mohammed-Umair-Kalim/TextBook_Physical-AI-Humanoid-Robotics/docs/Introduction-to-Physical-AI/00-plan.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Power Systems and Energy Efficiency",
+    "permalink": "/docs/Humanoid-Robotics-Hardware-and-Morphology/Power-Systems-and-Energy-Efficiency"
+  },
+  "next": {
+    "title": "What is Physical AI?",
+    "permalink": "/docs/Introduction-to-Physical-AI/What-is-Physical-AI"
+  }
+}

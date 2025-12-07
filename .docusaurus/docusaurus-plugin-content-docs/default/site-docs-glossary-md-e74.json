@@ -1,0 +1,20 @@
+{
+  "id": "glossary",
+  "title": "Glossary",
+  "description": "This glossary defines key terms used throughout the textbook \"Physical AI & Humanoid Robotics\".",
+  "source": "@site/docs/glossary.md",
+  "sourceDirName": ".",
+  "slug": "/glossary",
+  "permalink": "/docs/glossary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Mohammed-Umair-Kalim/TextBook_Physical-AI-Humanoid-Robotics/docs/glossary.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bibliography",
+    "permalink": "/docs/bibliography"
+  }
+}

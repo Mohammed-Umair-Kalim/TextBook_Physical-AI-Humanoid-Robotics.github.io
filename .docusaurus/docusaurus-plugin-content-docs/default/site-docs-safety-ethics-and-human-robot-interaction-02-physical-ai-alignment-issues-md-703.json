@@ -1,0 +1,27 @@
+{
+  "id": "Safety-Ethics-and-Human-Robot-Interaction/Physical-AI-Alignment-Issues",
+  "title": "Physical AI Alignment Issues",
+  "description": "Overview",
+  "source": "@site/docs/Safety-Ethics-and-Human-Robot-Interaction/02-Physical-AI-Alignment-Issues.md",
+  "sourceDirName": "Safety-Ethics-and-Human-Robot-Interaction",
+  "slug": "/Safety-Ethics-and-Human-Robot-Interaction/Physical-AI-Alignment-Issues",
+  "permalink": "/docs/Safety-Ethics-and-Human-Robot-Interaction/Physical-AI-Alignment-Issues",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Mohammed-Umair-Kalim/TextBook_Physical-AI-Humanoid-Robotics/docs/Safety-Ethics-and-Human-Robot-Interaction/02-Physical-AI-Alignment-Issues.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Robotics Safety Standards",
+    "permalink": "/docs/Safety-Ethics-and-Human-Robot-Interaction/Robotics-Safety-Standards"
+  },
+  "next": {
+    "title": "Human–Robot Interaction (HRI) Protocols",
+    "permalink": "/docs/Safety-Ethics-and-Human-Robot-Interaction/Human-Robot-Interaction-Protocols"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Humanoid-Robotics-Hardware-and-Morphology/plan",
+  "title": "Chapter Plan: Humanoid Robotics: Hardware and Morphology",
+  "description": "This document outlines the plan for the chapter \"Humanoid Robotics: Hardware and Morphology\".",
+  "source": "@site/docs/Humanoid-Robotics-Hardware-and-Morphology/00-plan.md",
+  "sourceDirName": "Humanoid-Robotics-Hardware-and-Morphology",
+  "slug": "/Humanoid-Robotics-Hardware-and-Morphology/plan",
+  "permalink": "/docs/Humanoid-Robotics-Hardware-and-Morphology/plan",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Mohammed-Umair-Kalim/TextBook_Physical-AI-Humanoid-Robotics/docs/Humanoid-Robotics-Hardware-and-Morphology/00-plan.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Multi-modal Reasoning for Physical Agents",
+    "permalink": "/docs/AI-for-Robotics-From-Learning-to-Reasoning/Multi-modal-Reasoning-for-Physical-Agents"
+  },
+  "next": {
+    "title": "Actuators and Sensors: The Building Blocks of Movement",
+    "permalink": "/docs/Humanoid-Robotics-Hardware-and-Morphology/Actuators-and-Sensors-The-Building-Blocks-of-Movement"
+  }
+}

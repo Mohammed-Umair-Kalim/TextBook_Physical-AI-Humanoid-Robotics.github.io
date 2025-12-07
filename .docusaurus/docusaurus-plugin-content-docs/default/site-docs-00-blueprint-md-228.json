@@ -1,0 +1,21 @@
+{
+  "id": "blueprint",
+  "title": "Textbook Blueprint: Physical AI & Humanoid Robotics",
+  "description": "This document outlines the structure of the textbook.",
+  "source": "@site/docs/00-blueprint.md",
+  "sourceDirName": ".",
+  "slug": "/blueprint",
+  "permalink": "/docs/blueprint",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Mohammed-Umair-Kalim/TextBook_Physical-AI-Humanoid-Robotics/docs/00-blueprint.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/intro"
+  }
+}

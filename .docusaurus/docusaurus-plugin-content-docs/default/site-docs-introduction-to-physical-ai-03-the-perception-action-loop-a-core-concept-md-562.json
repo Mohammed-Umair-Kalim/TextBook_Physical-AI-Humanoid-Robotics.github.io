@@ -1,0 +1,27 @@
+{
+  "id": "Introduction-to-Physical-AI/The-Perception-Action-Loop-A-Core-Concept",
+  "title": "The Perception-Action Loop: A Core Concept",
+  "description": "Overview",
+  "source": "@site/docs/Introduction-to-Physical-AI/03-The-Perception-Action-Loop-A-Core-Concept.md",
+  "sourceDirName": "Introduction-to-Physical-AI",
+  "slug": "/Introduction-to-Physical-AI/The-Perception-Action-Loop-A-Core-Concept",
+  "permalink": "/docs/Introduction-to-Physical-AI/The-Perception-Action-Loop-A-Core-Concept",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Mohammed-Umair-Kalim/TextBook_Physical-AI-Humanoid-Robotics/docs/Introduction-to-Physical-AI/03-The-Perception-Action-Loop-A-Core-Concept.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "A Brief History of AI and Robotics",
+    "permalink": "/docs/Introduction-to-Physical-AI/A-Brief-History-of-AI-and-Robotics"
+  },
+  "next": {
+    "title": "Chapter Plan: Locomotion and Control",
+    "permalink": "/docs/Locomotion-and-Control/plan"
+  }
+}

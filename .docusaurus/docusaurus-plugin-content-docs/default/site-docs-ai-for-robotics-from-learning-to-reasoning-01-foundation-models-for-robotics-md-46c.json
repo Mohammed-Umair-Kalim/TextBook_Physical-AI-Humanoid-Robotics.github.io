@@ -1,0 +1,27 @@
+{
+  "id": "AI-for-Robotics-From-Learning-to-Reasoning/Foundation-Models-for-Robotics",
+  "title": "Foundation Models for Robotics",
+  "description": "Overview",
+  "source": "@site/docs/AI-for-Robotics-From-Learning-to-Reasoning/01-Foundation-Models-for-Robotics.md",
+  "sourceDirName": "AI-for-Robotics-From-Learning-to-Reasoning",
+  "slug": "/AI-for-Robotics-From-Learning-to-Reasoning/Foundation-Models-for-Robotics",
+  "permalink": "/docs/AI-for-Robotics-From-Learning-to-Reasoning/Foundation-Models-for-Robotics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Mohammed-Umair-Kalim/TextBook_Physical-AI-Humanoid-Robotics/docs/AI-for-Robotics-From-Learning-to-Reasoning/01-Foundation-Models-for-Robotics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter Plan: AI for Robotics: From Learning to Reasoning",
+    "permalink": "/docs/AI-for-Robotics-From-Learning-to-Reasoning/plan"
+  },
+  "next": {
+    "title": "World Models and Predictive Control",
+    "permalink": "/docs/AI-for-Robotics-From-Learning-to-Reasoning/World-Models-and-Predictive-Control"
+  }
+}

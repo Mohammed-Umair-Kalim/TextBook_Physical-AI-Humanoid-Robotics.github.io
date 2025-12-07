@@ -1,0 +1,27 @@
+{
+  "id": "Locomotion-and-Control/Advanced-Control-Strategies",
+  "title": "Advanced Control Strategies",
+  "description": "Overview",
+  "source": "@site/docs/Locomotion-and-Control/02-Advanced-Control-Strategies.md",
+  "sourceDirName": "Locomotion-and-Control",
+  "slug": "/Locomotion-and-Control/Advanced-Control-Strategies",
+  "permalink": "/docs/Locomotion-and-Control/Advanced-Control-Strategies",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Mohammed-Umair-Kalim/TextBook_Physical-AI-Humanoid-Robotics/docs/Locomotion-and-Control/02-Advanced-Control-Strategies.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Principles of Bipedal Locomotion",
+    "permalink": "/docs/Locomotion-and-Control/Principles-of-Bipedal-Locomotion"
+  },
+  "next": {
+    "title": "Grasping and Manipulation",
+    "permalink": "/docs/Locomotion-and-Control/Grasping-and-Manipulation"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Introduction-to-Physical-AI/What-is-Physical-AI",
+  "title": "What is Physical AI?",
+  "description": "Overview",
+  "source": "@site/docs/Introduction-to-Physical-AI/01-What-is-Physical-AI.md",
+  "sourceDirName": "Introduction-to-Physical-AI",
+  "slug": "/Introduction-to-Physical-AI/What-is-Physical-AI",
+  "permalink": "/docs/Introduction-to-Physical-AI/What-is-Physical-AI",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Mohammed-Umair-Kalim/TextBook_Physical-AI-Humanoid-Robotics/docs/Introduction-to-Physical-AI/01-What-is-Physical-AI.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter Plan: Introduction to Physical AI",
+    "permalink": "/docs/Introduction-to-Physical-AI/plan"
+  },
+  "next": {
+    "title": "A Brief History of AI and Robotics",
+    "permalink": "/docs/Introduction-to-Physical-AI/A-Brief-History-of-AI-and-Robotics"
+  }
+}

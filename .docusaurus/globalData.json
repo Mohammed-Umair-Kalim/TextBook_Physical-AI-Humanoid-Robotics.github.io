@@ -1,0 +1,148 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "blueprint",
+          "docs": [
+            {
+              "id": "AI-for-Robotics-From-Learning-to-Reasoning/Foundation-Models-for-Robotics",
+              "path": "/docs/AI-for-Robotics-From-Learning-to-Reasoning/Foundation-Models-for-Robotics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "AI-for-Robotics-From-Learning-to-Reasoning/Multi-modal-Reasoning-for-Physical-Agents",
+              "path": "/docs/AI-for-Robotics-From-Learning-to-Reasoning/Multi-modal-Reasoning-for-Physical-Agents",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "AI-for-Robotics-From-Learning-to-Reasoning/plan",
+              "path": "/docs/AI-for-Robotics-From-Learning-to-Reasoning/plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "AI-for-Robotics-From-Learning-to-Reasoning/World-Models-and-Predictive-Control",
+              "path": "/docs/AI-for-Robotics-From-Learning-to-Reasoning/World-Models-and-Predictive-Control",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bibliography",
+              "path": "/docs/bibliography",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blueprint",
+              "path": "/docs/blueprint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "glossary",
+              "path": "/docs/glossary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Humanoid-Robotics-Hardware-and-Morphology/Actuators-and-Sensors-The-Building-Blocks-of-Movement",
+              "path": "/docs/Humanoid-Robotics-Hardware-and-Morphology/Actuators-and-Sensors-The-Building-Blocks-of-Movement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Humanoid-Robotics-Hardware-and-Morphology/Kinematics-and-Dynamics-The-Science-of-Motion",
+              "path": "/docs/Humanoid-Robotics-Hardware-and-Morphology/Kinematics-and-Dynamics-The-Science-of-Motion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Humanoid-Robotics-Hardware-and-Morphology/plan",
+              "path": "/docs/Humanoid-Robotics-Hardware-and-Morphology/plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Humanoid-Robotics-Hardware-and-Morphology/Power-Systems-and-Energy-Efficiency",
+              "path": "/docs/Humanoid-Robotics-Hardware-and-Morphology/Power-Systems-and-Energy-Efficiency",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Introduction-to-Physical-AI/A-Brief-History-of-AI-and-Robotics",
+              "path": "/docs/Introduction-to-Physical-AI/A-Brief-History-of-AI-and-Robotics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Introduction-to-Physical-AI/plan",
+              "path": "/docs/Introduction-to-Physical-AI/plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Introduction-to-Physical-AI/The-Perception-Action-Loop-A-Core-Concept",
+              "path": "/docs/Introduction-to-Physical-AI/The-Perception-Action-Loop-A-Core-Concept",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Introduction-to-Physical-AI/What-is-Physical-AI",
+              "path": "/docs/Introduction-to-Physical-AI/What-is-Physical-AI",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Locomotion-and-Control/Advanced-Control-Strategies",
+              "path": "/docs/Locomotion-and-Control/Advanced-Control-Strategies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Locomotion-and-Control/Grasping-and-Manipulation",
+              "path": "/docs/Locomotion-and-Control/Grasping-and-Manipulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Locomotion-and-Control/plan",
+              "path": "/docs/Locomotion-and-Control/plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Locomotion-and-Control/Principles-of-Bipedal-Locomotion",
+              "path": "/docs/Locomotion-and-Control/Principles-of-Bipedal-Locomotion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Safety-Ethics-and-Human-Robot-Interaction/Human-Robot-Interaction-Protocols",
+              "path": "/docs/Safety-Ethics-and-Human-Robot-Interaction/Human-Robot-Interaction-Protocols",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Safety-Ethics-and-Human-Robot-Interaction/Physical-AI-Alignment-Issues",
+              "path": "/docs/Safety-Ethics-and-Human-Robot-Interaction/Physical-AI-Alignment-Issues",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Safety-Ethics-and-Human-Robot-Interaction/plan",
+              "path": "/docs/Safety-Ethics-and-Human-Robot-Interaction/plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Safety-Ethics-and-Human-Robot-Interaction/Robotics-Safety-Standards",
+              "path": "/docs/Safety-Ethics-and-Human-Robot-Interaction/Robotics-Safety-Standards",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/blueprint",
+                "label": "blueprint"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

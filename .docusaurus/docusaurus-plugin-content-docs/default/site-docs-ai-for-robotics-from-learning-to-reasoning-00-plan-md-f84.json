@@ -1,0 +1,25 @@
+{
+  "id": "AI-for-Robotics-From-Learning-to-Reasoning/plan",
+  "title": "Chapter Plan: AI for Robotics: From Learning to Reasoning",
+  "description": "This document outlines the plan for the chapter \"AI for Robotics: From Learning to Reasoning\".",
+  "source": "@site/docs/AI-for-Robotics-From-Learning-to-Reasoning/00-plan.md",
+  "sourceDirName": "AI-for-Robotics-From-Learning-to-Reasoning",
+  "slug": "/AI-for-Robotics-From-Learning-to-Reasoning/plan",
+  "permalink": "/docs/AI-for-Robotics-From-Learning-to-Reasoning/plan",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Mohammed-Umair-Kalim/TextBook_Physical-AI-Humanoid-Robotics/docs/AI-for-Robotics-From-Learning-to-Reasoning/00-plan.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Foundation Models for Robotics",
+    "permalink": "/docs/AI-for-Robotics-From-Learning-to-Reasoning/Foundation-Models-for-Robotics"
+  }
+}

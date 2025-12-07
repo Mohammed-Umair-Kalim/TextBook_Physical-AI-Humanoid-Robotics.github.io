@@ -1,0 +1,27 @@
+{
+  "id": "Humanoid-Robotics-Hardware-and-Morphology/Kinematics-and-Dynamics-The-Science-of-Motion",
+  "title": "Kinematics and Dynamics: The Science of Motion",
+  "description": "Overview",
+  "source": "@site/docs/Humanoid-Robotics-Hardware-and-Morphology/02-Kinematics-and-Dynamics-The-Science-of-Motion.md",
+  "sourceDirName": "Humanoid-Robotics-Hardware-and-Morphology",
+  "slug": "/Humanoid-Robotics-Hardware-and-Morphology/Kinematics-and-Dynamics-The-Science-of-Motion",
+  "permalink": "/docs/Humanoid-Robotics-Hardware-and-Morphology/Kinematics-and-Dynamics-The-Science-of-Motion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Mohammed-Umair-Kalim/TextBook_Physical-AI-Humanoid-Robotics/docs/Humanoid-Robotics-Hardware-and-Morphology/02-Kinematics-and-Dynamics-The-Science-of-Motion.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Actuators and Sensors: The Building Blocks of Movement",
+    "permalink": "/docs/Humanoid-Robotics-Hardware-and-Morphology/Actuators-and-Sensors-The-Building-Blocks-of-Movement"
+  },
+  "next": {
+    "title": "Power Systems and Energy Efficiency",
+    "permalink": "/docs/Humanoid-Robotics-Hardware-and-Morphology/Power-Systems-and-Energy-Efficiency"
+  }
+}

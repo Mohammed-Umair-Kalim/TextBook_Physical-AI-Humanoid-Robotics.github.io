@@ -1,0 +1,27 @@
+{
+  "id": "Safety-Ethics-and-Human-Robot-Interaction/Robotics-Safety-Standards",
+  "title": "Robotics Safety Standards",
+  "description": "Overview",
+  "source": "@site/docs/Safety-Ethics-and-Human-Robot-Interaction/01-Robotics-Safety-Standards.md",
+  "sourceDirName": "Safety-Ethics-and-Human-Robot-Interaction",
+  "slug": "/Safety-Ethics-and-Human-Robot-Interaction/Robotics-Safety-Standards",
+  "permalink": "/docs/Safety-Ethics-and-Human-Robot-Interaction/Robotics-Safety-Standards",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Mohammed-Umair-Kalim/TextBook_Physical-AI-Humanoid-Robotics/docs/Safety-Ethics-and-Human-Robot-Interaction/01-Robotics-Safety-Standards.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter Plan: Safety, Ethics, and Human-Robot Interaction",
+    "permalink": "/docs/Safety-Ethics-and-Human-Robot-Interaction/plan"
+  },
+  "next": {
+    "title": "Physical AI Alignment Issues",
+    "permalink": "/docs/Safety-Ethics-and-Human-Robot-Interaction/Physical-AI-Alignment-Issues"
+  }
+}

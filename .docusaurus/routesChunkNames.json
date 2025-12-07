@@ -1,0 +1,125 @@
+{
+  "/markdown-page-3d7": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "content": "393be207"
+  },
+  "/docs-516": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/docs-247": {
+    "__comp": "a7bd4aaa",
+    "__props": "0058b4c6"
+  },
+  "/docs-b8e": {
+    "__comp": "a94703ab"
+  },
+  "/docs/AI-for-Robotics-From-Learning-to-Reasoning/Foundation-Models-for-Robotics-b23": {
+    "__comp": "17896441",
+    "content": "46c76bda"
+  },
+  "/docs/AI-for-Robotics-From-Learning-to-Reasoning/Multi-modal-Reasoning-for-Physical-Agents-bf7": {
+    "__comp": "17896441",
+    "content": "68249d7d"
+  },
+  "/docs/AI-for-Robotics-From-Learning-to-Reasoning/plan-9ef": {
+    "__comp": "17896441",
+    "content": "f84fba23"
+  },
+  "/docs/AI-for-Robotics-From-Learning-to-Reasoning/World-Models-and-Predictive-Control-dd3": {
+    "__comp": "17896441",
+    "content": "1df9c7eb"
+  },
+  "/docs/bibliography-1f9": {
+    "__comp": "17896441",
+    "content": "739a4da3"
+  },
+  "/docs/blueprint-d44": {
+    "__comp": "17896441",
+    "content": "2287887d"
+  },
+  "/docs/glossary-a11": {
+    "__comp": "17896441",
+    "content": "e747ec83"
+  },
+  "/docs/Humanoid-Robotics-Hardware-and-Morphology/Actuators-and-Sensors-The-Building-Blocks-of-Movement-c47": {
+    "__comp": "17896441",
+    "content": "4fc091b0"
+  },
+  "/docs/Humanoid-Robotics-Hardware-and-Morphology/Kinematics-and-Dynamics-The-Science-of-Motion-bbc": {
+    "__comp": "17896441",
+    "content": "98f57021"
+  },
+  "/docs/Humanoid-Robotics-Hardware-and-Morphology/plan-e72": {
+    "__comp": "17896441",
+    "content": "faa760d5"
+  },
+  "/docs/Humanoid-Robotics-Hardware-and-Morphology/Power-Systems-and-Energy-Efficiency-113": {
+    "__comp": "17896441",
+    "content": "8af0233a"
+  },
+  "/docs/intro-61d": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/docs/Introduction-to-Physical-AI/A-Brief-History-of-AI-and-Robotics-122": {
+    "__comp": "17896441",
+    "content": "967f1877"
+  },
+  "/docs/Introduction-to-Physical-AI/plan-058": {
+    "__comp": "17896441",
+    "content": "66080d51"
+  },
+  "/docs/Introduction-to-Physical-AI/The-Perception-Action-Loop-A-Core-Concept-f52": {
+    "__comp": "17896441",
+    "content": "562c366c"
+  },
+  "/docs/Introduction-to-Physical-AI/What-is-Physical-AI-e59": {
+    "__comp": "17896441",
+    "content": "9f40c1b3"
+  },
+  "/docs/Locomotion-and-Control/Advanced-Control-Strategies-2c9": {
+    "__comp": "17896441",
+    "content": "56227370"
+  },
+  "/docs/Locomotion-and-Control/Grasping-and-Manipulation-7c1": {
+    "__comp": "17896441",
+    "content": "3777cace"
+  },
+  "/docs/Locomotion-and-Control/plan-4a8": {
+    "__comp": "17896441",
+    "content": "c0077be7"
+  },
+  "/docs/Locomotion-and-Control/Principles-of-Bipedal-Locomotion-c25": {
+    "__comp": "17896441",
+    "content": "421fb487"
+  },
+  "/docs/Safety-Ethics-and-Human-Robot-Interaction/Human-Robot-Interaction-Protocols-43b": {
+    "__comp": "17896441",
+    "content": "5783acf4"
+  },
+  "/docs/Safety-Ethics-and-Human-Robot-Interaction/Physical-AI-Alignment-Issues-906": {
+    "__comp": "17896441",
+    "content": "703b5066"
+  },
+  "/docs/Safety-Ethics-and-Human-Robot-Interaction/plan-73d": {
+    "__comp": "17896441",
+    "content": "2aa0a73c"
+  },
+  "/docs/Safety-Ethics-and-Human-Robot-Interaction/Robotics-Safety-Standards-a2e": {
+    "__comp": "17896441",
+    "content": "d9a1bcf5"
+  },
+  "/-2e1": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

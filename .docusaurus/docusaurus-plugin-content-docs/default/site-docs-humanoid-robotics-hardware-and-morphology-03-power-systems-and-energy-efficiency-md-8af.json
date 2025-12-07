@@ -1,0 +1,27 @@
+{
+  "id": "Humanoid-Robotics-Hardware-and-Morphology/Power-Systems-and-Energy-Efficiency",
+  "title": "Power Systems and Energy Efficiency",
+  "description": "Overview",
+  "source": "@site/docs/Humanoid-Robotics-Hardware-and-Morphology/03-Power-Systems-and-Energy-Efficiency.md",
+  "sourceDirName": "Humanoid-Robotics-Hardware-and-Morphology",
+  "slug": "/Humanoid-Robotics-Hardware-and-Morphology/Power-Systems-and-Energy-Efficiency",
+  "permalink": "/docs/Humanoid-Robotics-Hardware-and-Morphology/Power-Systems-and-Energy-Efficiency",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Mohammed-Umair-Kalim/TextBook_Physical-AI-Humanoid-Robotics/docs/Humanoid-Robotics-Hardware-and-Morphology/03-Power-Systems-and-Energy-Efficiency.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kinematics and Dynamics: The Science of Motion",
+    "permalink": "/docs/Humanoid-Robotics-Hardware-and-Morphology/Kinematics-and-Dynamics-The-Science-of-Motion"
+  },
+  "next": {
+    "title": "Chapter Plan: Introduction to Physical AI",
+    "permalink": "/docs/Introduction-to-Physical-AI/plan"
+  }
+}

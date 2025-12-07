@@ -1,0 +1,25 @@
+{
+  "id": "Locomotion-and-Control/plan",
+  "title": "Chapter Plan: Locomotion and Control",
+  "description": "This document outlines the plan for the chapter \"Locomotion and Control\".",
+  "source": "@site/docs/Locomotion-and-Control/00-plan.md",
+  "sourceDirName": "Locomotion-and-Control",
+  "slug": "/Locomotion-and-Control/plan",
+  "permalink": "/docs/Locomotion-and-Control/plan",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Mohammed-Umair-Kalim/TextBook_Physical-AI-Humanoid-Robotics/docs/Locomotion-and-Control/00-plan.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The Perception-Action Loop: A Core Concept",
+    "permalink": "/docs/Introduction-to-Physical-AI/The-Perception-Action-Loop-A-Core-Concept"
+  },
+  "next": {
+    "title": "Principles of Bipedal Locomotion",
+    "permalink": "/docs/Locomotion-and-Control/Principles-of-Bipedal-Locomotion"
+  }
+}
